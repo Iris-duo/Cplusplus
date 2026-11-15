@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Review_of_C_Language\\review-of-c-language\\26_10_10_test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DA480B-1951-4930-AAF8-6C8FF71DD6AD}|26_10_10_test1\\26_10_10_test1.vcxproj|H:\\Review_of_C_Language\\review-of-c-language\\26_10_10_test1\\26_10_10_test1\\test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7DA480B-1951-4930-AAF8-6C8FF71DD6AD}|26_10_10_test1\\26_10_10_test1.vcxproj|solutionrelative:26_10_10_test1\\test1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test1.c",
+              "DocumentMoniker": "H:\\Review_of_C_Language\\review-of-c-language\\26_10_10_test1\\26_10_10_test1\\test1.c",
+              "RelativeDocumentMoniker": "26_10_10_test1\\test1.c",
+              "ToolTip": "H:\\Review_of_C_Language\\review-of-c-language\\26_10_10_test1\\26_10_10_test1\\test1.c",
+              "RelativeToolTip": "26_10_10_test1\\test1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-10T08:38:11.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Review_of_C_Language\\Review_of_C_Language\\minesweeper1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF64D57-D588-4801-B466-5E8A43B8A283}|minesweeper1\\minesweeper1.vcxproj|H:\\Review_of_C_Language\\Review_of_C_Language\\minesweeper1\\minesweeper1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECF64D57-D588-4801-B466-5E8A43B8A283}|minesweeper1\\minesweeper1.vcxproj|solutionrelative:minesweeper1\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF64D57-D588-4801-B466-5E8A43B8A283}|minesweeper1\\minesweeper1.vcxproj|H:\\Review_of_C_Language\\Review_of_C_Language\\minesweeper1\\minesweeper1\\minesweeper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECF64D57-D588-4801-B466-5E8A43B8A283}|minesweeper1\\minesweeper1.vcxproj|solutionrelative:minesweeper1\\minesweeper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF64D57-D588-4801-B466-5E8A43B8A283}|minesweeper1\\minesweeper1.vcxproj|H:\\Review_of_C_Language\\Review_of_C_Language\\minesweeper1\\minesweeper1\\minesweeper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECF64D57-D588-4801-B466-5E8A43B8A283}|minesweeper1\\minesweeper1.vcxproj|solutionrelative:minesweeper1\\minesweeper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "minesweeper.h",
+              "DocumentMoniker": "H:\\Review_of_C_Language\\Review_of_C_Language\\minesweeper1\\minesweeper1\\minesweeper.h",
+              "RelativeDocumentMoniker": "minesweeper1\\minesweeper.h",
+              "ToolTip": "H:\\Review_of_C_Language\\Review_of_C_Language\\minesweeper1\\minesweeper1\\minesweeper.h*",
+              "RelativeToolTip": "minesweeper1\\minesweeper.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-15T06:09:04.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "H:\\Review_of_C_Language\\Review_of_C_Language\\minesweeper1\\minesweeper1\\test.c",
+              "RelativeDocumentMoniker": "minesweeper1\\test.c",
+              "ToolTip": "H:\\Review_of_C_Language\\Review_of_C_Language\\minesweeper1\\minesweeper1\\test.c*",
+              "RelativeToolTip": "minesweeper1\\test.c*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-15T06:08:22.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "minesweeper.c",
+              "DocumentMoniker": "H:\\Review_of_C_Language\\Review_of_C_Language\\minesweeper1\\minesweeper1\\minesweeper.c",
+              "RelativeDocumentMoniker": "minesweeper1\\minesweeper.c",
+              "ToolTip": "H:\\Review_of_C_Language\\Review_of_C_Language\\minesweeper1\\minesweeper1\\minesweeper.c*",
+              "RelativeToolTip": "minesweeper1\\minesweeper.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-15T06:08:36.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Review_of_C_Language\\Review_of_C_Language\\MineSwepeer1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3D4529-D3A0-45FF-B588-989E28FEEDDB}|MineSwepeer1\\MineSwepeer1.vcxproj|H:\\Review_of_C_Language\\Review_of_C_Language\\MineSwepeer1\\MineSwepeer1\\Debug.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E3D4529-D3A0-45FF-B588-989E28FEEDDB}|MineSwepeer1\\MineSwepeer1.vcxproj|solutionrelative:MineSwepeer1\\Debug.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Debug.c",
+              "DocumentMoniker": "H:\\Review_of_C_Language\\Review_of_C_Language\\MineSwepeer1\\MineSwepeer1\\Debug.c",
+              "RelativeDocumentMoniker": "MineSwepeer1\\Debug.c",
+              "ToolTip": "H:\\Review_of_C_Language\\Review_of_C_Language\\MineSwepeer1\\MineSwepeer1\\Debug.c*",
+              "RelativeToolTip": "MineSwepeer1\\Debug.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-15T04:14:46.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

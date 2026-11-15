@@ -1,0 +1,2 @@
+﻿  Test1.c
+H:\Review_of_C_Language\review-of-c-language\2026_10_22_Test\2026_10_22_Test\Test1.c(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
