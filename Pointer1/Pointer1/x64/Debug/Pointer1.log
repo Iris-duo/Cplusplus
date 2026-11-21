@@ -1,26 +1,3 @@
 ﻿  Pointer1.c
-H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-      H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(10,9):
-      请考虑在格式字符串中使用“%zd”
-  
-H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-      H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(11,9):
-      请考虑在格式字符串中使用“%zd”
-  
-H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-      H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(12,9):
-      请考虑在格式字符串中使用“%zd”
-  
-H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-      H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(13,9):
-      请考虑在格式字符串中使用“%zd”
-  
-H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-      H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(14,9):
-      请考虑在格式字符串中使用“%zd”
-  
-H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-      H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(15,9):
-      请考虑在格式字符串中使用“%zd”
-  
+H:\Cplusplus\Cplusplus\Pointer1\Pointer1\Pointer1.c(26,7): warning C4090: “初始化”: 不同的“const”限定符
   Pointer1.vcxproj -> H:\Cplusplus\Cplusplus\Pointer1\x64\Debug\Pointer1.exe
